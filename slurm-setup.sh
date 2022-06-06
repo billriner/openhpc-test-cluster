@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 systemctl start slurmdbd
 sleep 5
 sacctmgr -i add cluster linux
