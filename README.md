@@ -53,9 +53,9 @@ well.
 2. Configure all nodes as NIS clients and the head node as a NIS slave server.
 3. Use CSB slurm configuration files.
 4. Add required additional CSB packages.
-5. How to handle compute nodes with differing hardware?  e.g. GPUs
-6. Change to statefull provisioning so that the OS runs from disk instead of memory.
-7. Change hostnames.
-8. Update packages on the head node before creating compute node image.
-9. We are not using IPMI since the hsradware does not support it (need to verify this).
-10. Allow users to log into nodes where they do not have jobs running.
+5. How to handle compute nodes with differing hardware?  e.g. GPUs and Infiniband (different images?)
+7. Change to statefull provisioning so that the OS runs from disk instead of memory.
+8. Change hostnames.
+9. Update packages on the head node before creating compute node image.
+10. We are not using IPMI since the hsradware does not support it (need to verify this).
+11. Allow users to log into nodes where they do not have jobs running.
