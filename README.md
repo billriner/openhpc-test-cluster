@@ -46,3 +46,9 @@ will take approximately two minutes.
 
 The ordinary Vagrant `halt`, `destroy`, and `status` commands may be useful as
 well.
+
+## Modifications for Vanderbilt CSB requirements
+
+1. Compute nodes will have a public IP address.
+2. All nodes will be NIS clients.  THe head node will also be a NIS slave server.
+3. Use CSB slurm configuration files.
