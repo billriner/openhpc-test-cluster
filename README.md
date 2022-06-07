@@ -24,7 +24,7 @@ To start the SMS, run:
 
     vagrant up
 
-Provisioning the first time will take approximately ten minutes. Once the SMS is
+Provisioning the first time will take approximately 24 minutes. Once the SMS is
 running, you can SSH into it:
 
     vagrant ssh
@@ -70,8 +70,8 @@ The DHCP Server will automatically supply this information to the nodes.  IP add
 - DNS Servers:      10.2.189.78, 10.4.162.82
 
 - sms
-  -- IP Address:   10.2.188.44
-  -- MAC Address:  52-54-00-26-10-60
+  IP Address:   10.2.188.44
+  MAC Address:  52-54-00-26-10-60
   
 - c1
   IP Address:   10.2.188.48
