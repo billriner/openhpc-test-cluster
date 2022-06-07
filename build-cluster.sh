@@ -38,7 +38,7 @@ EOF`
           '--boot4', 'none',
           '--macaddress1', '221a2b0000$((i-1))$((i-1))',
           '--nic2', 'bridged',
-          '--bridgeadapter', 'eth1',
+          '--bridgeadapter', 'br0',
           '--macaddress2', '221a2b0000$((i-1+$NCOMPUTES))$((i-1+$NCOMPUTES))'
         ]
 
