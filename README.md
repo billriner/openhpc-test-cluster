@@ -71,24 +71,34 @@ The DHCP Server will automatically supply this information to the nodes.  IP add
     Domain:           csb.vanderbilt.edu
 
     sms
-    IP Address:   10.2.188.44
-    MAC Address:  52-54-00-26-10-60
+    External IP Address:   10.2.188.44 (getting 10.0.2.15)
+    External MAC Address:  52-54-00-26-10-60
+    Internal IP address: 192.168.7.2
+    Internal MAC address: 08:00:27:f1:e3:84   
   
     c1
-    IP Address:   10.2.188.48
-    MAC Address:  22-1a-2b-00-00-44
+    External IP Address:   10.2.188.48
+    External MAC Address:  22-1a-2b-00-00-44
+    Internal IP address:
+    Internal MAC address: 
 
     c2
-    IP Address:   10.2.188.47
-    MAC Address:  22-1a-2b-00-00-55
+    External IP Address:   10.2.188.47
+    External MAC Address:  22-1a-2b-00-00-55
+    Internal IP address:
+    Internal MAC address: 
 
     c3
-    IP Address:   10.2.188.46
-    MAC Address:  22-1a-2b-00-00-66
+    External IP Address:   10.2.188.46
+    External MAC Address:  22-1a-2b-00-00-66
+    Internal IP address:
+    Internal MAC address: 
 
     c4
-    IP Address:   10.2.188.45
-    MAC Address:  22-1a-2b-00-00-77
+    External IP Address:   10.2.188.45
+    External MAC Address:  22-1a-2b-00-00-77
+    Internal IP address:
+    Internal MAC address: 
 
 
 
